@@ -4,3 +4,9 @@ greenText {color: hsl(102, 100%, 50%);}
 orangeText {color: orange}
 
 body {background-color: silver}
+
+p {
+    color: brown;
+    text-decoration: underline;
+    text-align: center;
+}
