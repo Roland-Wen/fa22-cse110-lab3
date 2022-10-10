@@ -5,8 +5,8 @@ orangeText {color: orange}
 
 body {background-color: silver}
 
-p {
+h3 {
+    text-align: center;
     color: brown;
     text-decoration: underline;
-    text-align: center;
 }
