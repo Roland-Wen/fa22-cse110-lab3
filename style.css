@@ -1,12 +1,6 @@
-﻿redText {
-    color: rgb(255, 0, 0); /*rgb for red*/
-}
-blueText {
-    color: #0026ff
-}
-greenText {
-    color: hsl(102, 100%, 50%);
-}
-orangeText {
-    color: orange
-}
+﻿redText {color: rgb(255, 0, 0); /*rgb for red*/}
+blueText {color: #0026ff}
+greenText {color: hsl(102, 100%, 50%);}
+orangeText {color: orange}
+
+body {background-color: silver}
