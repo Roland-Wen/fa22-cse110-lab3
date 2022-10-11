@@ -2,9 +2,7 @@
 blueText {color: #0026ff}
 greenText {color: hsl(102, 100%, 50%);}
 orangeText {color: orange}
-
 body {background-color: silver}
-
 boxSS { /*short short*/
     width: 200px;
     border-style: dashed;
@@ -38,17 +36,19 @@ boxAuto {
     margin: auto;
     padding: 4px;
 }
-
 h3 {
     text-align: center;
     color: brown;
     text-decoration: underline;
+    position: static;
 }
-
 li {
     display: block;
 }
-
 h1.hidden {
     display: none;
+}
+div.relative {
+    position: relative;
+    left: 100px;
 }
