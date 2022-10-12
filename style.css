@@ -7,7 +7,10 @@ orangeText {
 }
 body {background-color: silver}
 boxSS { /*short short*/
-    width: 200px;
+    width: 30vw;
+    height: 200px;
+    max-width: 1000px;
+    min-width: 100px;
     border-style: dashed;
     border-color: forestgreen;
     border-width: 2px;
