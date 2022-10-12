@@ -68,3 +68,26 @@ myFont {
 }
 changeColor:hover {color: aqua;}
 changeColor:active {color: seagreen;}
+.flex-container {
+    display: flex;
+    background-color: forestgreen;
+}
+.flex-container > div {
+    background-color: cyan;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: blueviolet;
+    padding: 5px;
+}
+.grid-item {
+    background-color: cadetblue;
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+}
