@@ -55,3 +55,8 @@ div.relative {
 myFont {
     font-family: 'Nabla', cursive;
 }
+@media only screen and (max-width: 800px) {
+    body {
+        background-color: lightcyan;
+    }
+}
