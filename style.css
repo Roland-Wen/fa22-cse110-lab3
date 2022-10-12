@@ -52,3 +52,6 @@ div.relative {
     position: relative;
     left: 100px;
 }
+myFont {
+    font-family: 'Nabla', cursive;
+}
