@@ -66,3 +66,5 @@ myFont {
         background-color: lightcyan;
     }
 }
+changeColor:hover {color: aqua;}
+changeColor:active {color: seagreen;}
