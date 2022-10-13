@@ -94,3 +94,5 @@ changeColor:active {color: seagreen;}
 }
 *:active {color: seagreen;}
 ol li {font-size: 20px;}
+big ~ small {font-size:7px;}
+big2 + small2 {font-size: 5px;}
