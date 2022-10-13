@@ -91,3 +91,6 @@ changeColor:active {color: seagreen;}
     font-size: 10px;
     text-align: center;
 }
+*:active {
+    color: seagreen;
+}
