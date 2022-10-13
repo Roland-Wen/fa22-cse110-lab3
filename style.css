@@ -1,7 +1,8 @@
 ﻿redText {color: rgb(255, 0, 0); /*rgb for red*/}
 blueText {color: #0026ff}
-greenText {color: hsl(102, 100%, 50%);}
-orangeText {
+[target=greenText] {color: hsl(102, 100%, 50%);}
+redText, blueText {font-size: 50px}
+#orangeText {
     color: orange;
     font-size: 2em;
 }
@@ -91,3 +92,7 @@ changeColor:active {color: seagreen;}
     font-size: 10px;
     text-align: center;
 }
+*:active {color: seagreen;}
+ol li {font-size: 20px;}
+big ~ small {font-size:7px;}
+big2 + small2 {font-size: 5px;}
