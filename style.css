@@ -1,6 +1,9 @@
 ﻿redText {color: rgb(255, 0, 0); /*rgb for red*/}
 blueText {color: #0026ff}
 [target=greenText] {color: hsl(102, 100%, 50%);}
+redText, blueText {
+    font-size: 50px
+}
 #orangeText {
     color: orange;
     font-size: 2em;
